@@ -1,0 +1,17 @@
+2025-11-21 19:10:10.370 [main] DEBUG org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\eclipse-workspace\PractiseSet1\OrangeHRM\testng.xml"
+2025-11-21 19:10:11.445 [main] INFO  org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\eclipse-workspace\PractiseSet1\OrangeHRM\testng.xml
+
+2025-11-21 19:14:10.123 [main] INFO  testCases.TC001_VerifyUserLogin:105 - Browser launched successfully
+2025-11-21 19:14:10.397 [main] INFO  testCases.TC001_VerifyUserLogin:17 - Started login test with Invalid Data
+2025-11-21 19:14:10.502 [main] INFO  testCases.TC001_VerifyUserLogin:19 - Sending Data
+2025-11-21 19:14:20.904 [main] INFO  testCases.TC001_VerifyUserLogin:46 - Started login test with Wrong User Data
+2025-11-21 19:14:20.908 [main] INFO  testCases.TC001_VerifyUserLogin:48 - Sending User Data
+2025-11-21 19:14:31.028 [main] INFO  testCases.TC001_VerifyUserLogin:72 - Started login test with wrong User & Wrong Pass  
+2025-11-21 19:14:31.029 [main] INFO  testCases.TC001_VerifyUserLogin:74 - Sending User Data
+2025-11-21 19:14:41.129 [main] INFO  testCases.TC001_VerifyUserLogin:124 - Started login test with Valid Data
+2025-11-21 19:14:41.133 [main] INFO  testCases.TC001_VerifyUserLogin:126 - Sending Data
+2025-11-21 19:14:51.600 [main] INFO  testCases.TC001_VerifyUserLogin:97 - Started login test with Valid Data
+2025-11-21 19:14:51.604 [main] INFO  testCases.TC001_VerifyUserLogin:99 - Sending Data
+2025-11-21 19:14:56.056 [main] INFO  testCases.TC001_VerifyUserLogin:102 - Clicked Login Button
+2025-11-21 19:15:33.119 [main] INFO  testCases.TC001_VerifyUserLogin:116 - Login test with Valid Data Completed
